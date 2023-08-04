@@ -1,5 +1,5 @@
 # $\mathfrak{g}$-sim
-This repository contains additional data for the $\mathfrak{g}$-sim framework outlined in our manuscript "Lie-algebraic classical simulations for variational quantum computing" (arXiv:2307.XXXXX). At present, the following data are provided.
+This repository contains additional data for the $\mathfrak{g}$-sim framework outlined in our manuscript "Lie-algebraic classical simulations for variational quantum computing" ([arXiv:2308.01432](https://arxiv.org/abs/2308.01432)). At present, the following data are provided.
 
 ## $\mathfrak{g}_0$ algebra basis
 In our manuscript, we make use of the following algebra:
